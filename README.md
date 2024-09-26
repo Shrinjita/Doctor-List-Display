@@ -1,18 +1,15 @@
 # HTML Starter Project
-
-This is a simple HTML starter template for building basic static web pages. The project is hosted live at [HTML Starter 1](https://html-starter-1.vercel.app/).
+This project is a simple web application that displays a list of doctors with their respective information, built using HTML, CSS, and potentially JavaScript. It is hosted on Vercel and provides an interface to showcase doctor data for easy browsing.
 
 ## Features
 
-- Basic HTML structure with meta tags and headers.
-- Custom styling with CSS for layout and design.
-- Organized folder structure for easy navigation and editing.
-- Fully responsive design adaptable to different screen sizes.
-- Cross-browser compatibility.
+- Displays a list of doctors, including details such as name, specialty, location, and contact information.
+- Clean and responsive design, ensuring the interface works well on different screen sizes.
+- Easy to navigate and visually appealing layout.
 
 ## Live Demo
 
-Check out the live version here: [HTML Starter 1](https://html-starter-1.vercel.app/)
+Check out the live version here: [Doctor-List-Display](https://html-starter-1.vercel.app/)
 
 ## Technologies Used
 
