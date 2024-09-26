@@ -1,5 +1,4 @@
 # HTML Starter Project
-This project is a simple web application that displays a list of doctors with their respective information, built using HTML, CSS, and potentially JavaScript. It is hosted on Vercel and provides an interface to showcase doctor data for easy browsing.
 
 ## Features
 
